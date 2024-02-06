@@ -11,6 +11,6 @@ export const options = {
 };
 
 export default function() {
-  http.get('https://marsair.recruiting.thoughtworks.net/WagnerGhedin');
+  http.get('https://wagnerghedin.com');
   sleep(1);
 }
